@@ -1,0 +1,12 @@
+Dataset proyek ini terdiri dari 8.483 citra medis otak format JPG dari Kaggle dan BMP dari Zenodo. 
+Penggabungan dari beberapa sumber ini bertujuan untuk meningkatkan jumlah dan variasi data, 
+sehingga model dapat mengenali pola tumor otak dengan lebih baik. Berikut adalah kelas dan distribusi jumlah datanya:
+Kelas          Jumlah
+Glioma          2.259
+Meningioma      2.214
+No Tumor        1.796
+Pituitary       2.214
+Total           8.483
+
+Dataset ini dipilih karena relevan langsung dengan tujuan deteksi tumor otak. 
+Variasi kelas yang tersedia juga memungkinkan model untuk melakukan klasifikasi multi kelas dengan lebih kompleks. 
